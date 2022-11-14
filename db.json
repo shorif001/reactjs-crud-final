@@ -13,11 +13,10 @@
       "phone": "01845545454"
     },
     {
+      "id": 4,
       "name": "test",
       "email": "test@gmail.com",
-      "phone": "656565551",
-      "active": true,
-      "id": 4
+      "phone": "01726598742"
     }
   ]
 }

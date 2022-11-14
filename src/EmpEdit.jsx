@@ -94,7 +94,7 @@ const EmpEdit = () => {
                   </div>
                   <div className="col-lg-12">
                     <div className="form-group">
-                      <button className='btn btn-success' type='submit'>Save</button>
+                      <button className='btn btn-success' type='submit'>Update</button>
                       <Link to="/" className='btn btn-danger' >Back</Link>
                     </div>
                   </div>
